@@ -19,7 +19,7 @@ Please note that this project is **not complete** and serves as a starting point
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/mayank-016/car-dealership-management.git
+git clone https://github.com/Mayank-016/Car-DealerShip-Backend.git
 cd car-dealership-management
 ```
 
