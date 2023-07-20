@@ -11,23 +11,11 @@ This API documentation provides details about the endpoints and functionalities 
 
 2. [User Endpoints](#user-endpoints)
    1. [Get All Cars](#get-all-cars)
-   2. [Get Cars in a Dealership](#get-cars-in-a-dealership)
-   3. [Get Dealerships with a Certain Car](#get-dealerships-with-a-certain-car)
-   4. [Get All Vehicles Owned by User](#get-all-vehicles-owned-by-user)
-   5. [Get Dealerships Within a Certain Range](#get-dealerships-within-a-certain-range)
-   6. [Get All Deals on a Certain Car](#get-all-deals-on-a-certain-car)
-   7. [Get All Deals from a Certain Dealership](#get-all-deals-from-a-certain-dealership)
-   8. [Buy a Car After a Deal is Made](#buy-a-car-after-a-deal-is-made)
 
 3. [Dealership Endpoints](#dealership-endpoints)
    1. [Get All Cars](#get-all-cars-1)
    2. [Get All Cars Sold by Dealership](#get-all-cars-sold-by-dealership)
-   3. [Add Cars to Dealership](#add-cars-to-dealership)
-   4. [View Deals Provided by Dealership](#view-deals-provided-by-dealership)
-   5. [Add Deals to Dealership](#add-deals-to-dealership)
-   6. [View All Vehicles Sold by Dealership](#view-all-vehicles-sold-by-dealership)
-   7. [Add New Vehicle to Sold Vehicles](#add-new-vehicle-to-sold-vehicles)
-
+      
 ## Authentication Endpoints
 
 ### Admin Login
